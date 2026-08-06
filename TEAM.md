@@ -6,12 +6,12 @@
 
 | รายการ | รายละเอียด |
 |---|---|
-| กลุ่ม | Group XX |
-| ชื่อโครงงาน | [ชื่อระบบภาษาไทย] / [English Project Name] |
-| Case Card | [หมายเลขและชื่อ Case Card ที่อาจารย์มอบหมาย] |
-| Repository URL | [วาง URL GitHub] |
-| ช่องทางสื่อสารหลัก | [เช่น LINE / Discord / Microsoft Teams] |
-| วันประชุมประจำ | [วัน/เวลา] |
+| กลุ่ม | Group06 |
+| ชื่อโครงงาน | ระบบลงทะเบียนและเช็กอินกิจกรรมของหลักสูตร / program-event-registration-checkin |
+| Case Card | Case 06: ระบบลงทะเบียนและเช็กอินกิจกรรมของหลักสูตร |
+| Repository URL | https://github.com/tanapat23/ENGSE206-Group06-program-event-registration-checkin |
+| ช่องทางสื่อสารหลัก | ... |
+| วันประชุมประจำ | ตลอดเวลา |
 
 ## สมาชิกและบทบาท
 
@@ -19,10 +19,10 @@
 
 | รหัสนักศึกษา | ชื่อ-นามสกุล | บทบาทหลัก | รับผิดชอบเริ่มต้น | หลักฐานการทำงานที่คาดหวัง |
 |---|---|---|---|---|
-| [ID] | [ชื่อ] | Team Coordinator | ประสานงาน/ติดตามความคืบหน้า | meeting notes, worklog |
-| [ID] | [ชื่อ] | Requirements Lead | elicitation / backlog / SRS | requirement docs |
-| [ID] | [ชื่อ] | Design Lead | diagrams / architecture / detailed design | design docs, diagrams |
-| [ID] | [ชื่อ] | UX & Evidence Lead | prototype / usability / evidence | evidence, prototype |
+| [68543210064-0] | [ธนภัทร] | Team Coordinator | ประสานงาน/ติดตามความคืบหน้า | meeting notes, worklog |
+| [68543210064-0] | [ธนภัทร] | Requirements Lead | elicitation / backlog / SRS | requirement docs |
+| [68543210064-0] | [ธนภัทร] | Design Lead | diagrams / architecture / detailed design | design docs, diagrams |
+| [68543210064-0] | [ธนภัทร] | UX & Evidence Lead | prototype / usability / evidence | evidence, prototype |
 
 ## กติกาทีม
 
