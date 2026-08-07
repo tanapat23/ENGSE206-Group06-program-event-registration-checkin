@@ -39,7 +39,7 @@
 
 | Member | Role/work | Commit/file evidence |
 |---|---|---|
-| ธนภัทร ชัยทอง | ดำเนินการ AI stakeholder simulation ทั้ง 2 session, ดึง evidence/conflict/requirement candidates, เขียน workshop minutes, อัปเดต risk/decision log | `docs/04-evidence-log.md`, `evidence/week-04/*`, [ระบุ commit hash หลัง push] |
+| ธนภัทร ชัยทอง | ดำเนินการ AI stakeholder simulation ทั้ง 2 session, ดึง evidence/conflict/requirement candidates, เขียน workshop minutes, อัปเดต risk/decision log | `docs/04-evidence-log.md`, `evidence/week-04/*`, 42d8e08 |
 
 ## 5. Tabletop Summary
 
@@ -54,5 +54,5 @@
 | Field | Value |
 |---|---|
 | Commit | `submit(w04): stakeholder evidence negotiation and candidates` |
-| Commit hash/time | [กรอกหลัง push] |
+| Commit hash/time | `42d8e08` / 07/08/2026 |
 | Known limitations/open questions | ทุก RC เป็น Candidate/Provisional ยังไม่ผ่านการยืนยันจากผู้จัดกิจกรรม/อาจารย์จริง; ยังไม่ได้สัมภาษณ์บทบาท Organizer และ Participant (Role 1, 3); นโยบาย data retention ยังไม่มีคำตอบ |

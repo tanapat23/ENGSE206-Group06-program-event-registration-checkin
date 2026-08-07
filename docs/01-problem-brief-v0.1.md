@@ -103,7 +103,7 @@
 | ธนภัทร ชัยทอง | อ่าน Case Card (Case 06) และวิเคราะห์ภาพรวมปัญหา, Facts, Pain Points | docs/01-problem-brief-v0.1.md |
 | ธนภัทร ชัยทอง | ระบุ Stakeholders เริ่มต้นและเป้าหมายระบบ (Goals) | docs/01-problem-brief-v0.1.md |
 | ธนภัทร ชัยทอง | กำหนด Scope, User Needs และ NFR เบื้องต้น (ใช้ AI ช่วยร่างจาก Case Card แล้วตรวจทาน/แก้ไขเอง) | docs/01-problem-brief-v0.1.md |
-| ธนภัทร ชัยทอง | สรุป Assumptions/Open Questions และตรวจทานเอกสารทั้งฉบับก่อนส่ง | docs/01-problem-brief-v0.1.md , [ระบุ commit hash หลัง push] |
+| ธนภัทร ชัยทอง | สรุป Assumptions/Open Questions และตรวจทานเอกสารทั้งฉบับก่อนส่ง | docs/01-problem-brief-v0.1.md , 42d8e08 |
 
 ## 12. การตรวจทานก่อนส่ง
 

@@ -32,7 +32,7 @@
 
 | Member | Role/work | Commit/file evidence | Oral-check topic |
 |---|---|---|---|
-| ธนภัทร ชัยทอง | ร่าง Elicitation Plan และ Interview Guide ทั้งหมด ดำเนินการ AI Rehearsal (ใช้ AI ช่วยร่างและสวมบทบาทซ้อมสัมภาษณ์ ตรวจทาน/แก้ไขเอง) | `docs/03-elicitation-plan.md`, `docs/03-interview-guide.md`, [ระบุ commit hash หลัง push] | อธิบายความต่างระหว่าง OQ กับ EO และเหตุผลที่ต้อง tag คำตอบจาก AI ว่า unresolved แทนที่จะถือเป็น fact |
+| ธนภัทร ชัยทอง | ร่าง Elicitation Plan และ Interview Guide ทั้งหมด ดำเนินการ AI Rehearsal (ใช้ AI ช่วยร่างและสวมบทบาทซ้อมสัมภาษณ์ ตรวจทาน/แก้ไขเอง) | `docs/03-elicitation-plan.md`, `docs/03-interview-guide.md`, 42d8e08 | อธิบายความต่างระหว่าง OQ กับ EO และเหตุผลที่ต้อง tag คำตอบจาก AI ว่า unresolved แทนที่จะถือเป็น fact |
 
 ## 5. Tabletop Summary
 
@@ -47,5 +47,5 @@
 | Field | Value |
 |---|---|
 | Commit | `submit(w03): elicitation plan interview guide and rehearsal` |
-| Commit hash/time | [กรอกหลัง push] |
+| Commit hash/time | `42d8e08` / 07/08/2026 |
 | Known limitations/open questions | นโยบายเกณฑ์เวลาสาย/ยกเลิก/เบิกงบยังไม่ยืนยันกับอาจารย์จริง (มาจาก AI rehearsal เท่านั้น); ยังไม่ได้ซ้อมสัมภาษณ์บทบาทเจ้าหน้าที่เช็กอิน (EO-05) |
